@@ -28,6 +28,7 @@ angular
         getActiveListings: getActiveListings,
         showCart: showCart,
         addToCart: addToCart,
-        deleteingListing: deleteingListing
+        deleteingListing: deleteingListing,
+        getListing: getListing
       }
     })
